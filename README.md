@@ -1,1 +1,1 @@
-# Guided-Capstone
+# Big Mountain Resort Pricing Model 
